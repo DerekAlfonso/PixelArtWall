@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Drop Wall",
+  "description": "A full-screen responsive pixel art display that builds images by dropping pixels, featuring an integrated image-to-matrix converter.",
+  "requestFramePermissions": []
+}
